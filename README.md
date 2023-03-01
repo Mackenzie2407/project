@@ -1,7 +1,7 @@
 # project
 프로젝트 ppt 확인하기
 1. 다음 분기에 어떤 게임을 설계해야 할까?<br>
-(git hub 파일 이름 - Game_design)<br>
+(git hub 파일 이름 - Game_industry_analysis)<br>
 https://drive.google.com/file/d/1mbXyUFwuGlzgas-CZgYip4TiepZEcpAQ/view?usp=sharing<br><br>
 
 2. 머신러닝 활용 서울시 골목상권 분석 - 어떤 골목 상권에서 어떤 외식업을 하면 잘 될까?<br>
