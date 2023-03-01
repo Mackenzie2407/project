@@ -12,3 +12,7 @@ https://drive.google.com/file/d/1uPm6DngHKI6oDts-LrAg_NR4AeY3u9pE/view?usp=shari
 (git hub 파일 이름 - Prediction_of_audiences_number_by_poster, Movie_genre_classification_by_poster)<br>
 https://drive.google.com/file/d/1AMwqu_XhBg00pk6xy8CtOqM4HZd_Gj7h/view?usp=sharing
 <br><br>
+
+4. 냉동피자 제품 판매 분석 및 신제품 개발 & 프로모션 방안 제안<br>
+(git hub 파일 이름 - Frozen_pizza_analysis)<br>
+https://drive.google.com/file/d/1cBHHJk9Em0Tf229SpI1PtEF108jQzARW/view?usp=sharing
