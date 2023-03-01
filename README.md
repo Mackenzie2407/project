@@ -14,5 +14,5 @@ https://drive.google.com/file/d/1AMwqu_XhBg00pk6xy8CtOqM4HZd_Gj7h/view?usp=shari
 <br><br>
 
 4. 냉동피자 제품 판매 분석 및 신제품 개발 & 프로모션 방안 제안<br>
-(git hub 파일 이름 - Frozen_pizza_analysis)<br>
+(git hub 파일 이름 - Frozen_pizza)<br>
 https://drive.google.com/file/d/1cBHHJk9Em0Tf229SpI1PtEF108jQzARW/view?usp=sharing
